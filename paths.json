@@ -2,9 +2,11 @@
   "mappings": [
     "/content/dapx26a/:/",
     "/content/dapx26a/configuration:/.helix/config.json",
-    "/content/dapx26a/metadata:/metadata.json"
+    "/content/dapx26a/metadata:/metadata.json",
+    "/content/dam/dapx26a/teasers/:/teasers/"
   ],
   "includes": [
-    "/content/dapx26a/"
+    "/content/dapx26a/",
+    "/content/dam/dapx26a/"
   ]
 }
